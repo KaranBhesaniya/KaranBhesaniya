@@ -18,6 +18,7 @@ Creative and detail-oriented Web Designer with over 3+ years of experience in de
 - PSD to HTML, Figma to HTML
 - React / Next.js / Nuxt – Component-based Design
 - Responsive Web Design
+- Webflow
 - Animation: AOS, Animate.css, Framer Motion, GSAP
 - Email Template Design
 - ShadCN Library
